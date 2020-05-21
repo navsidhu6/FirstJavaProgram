@@ -1,0 +1,12 @@
+                      
+                            JAVA
+
+# Rules for naming identifiers
+    -  a to z, A to Z, 0 to 9, $, _
+    - we can't use reserved words as an identifiers such as, int, public, 
+    - All predefined java class names and interface names can be used as an identifires (but not recommended)
+    - identifires cannot start with digits
+    - identifirs are case sensitive as Java language is  e.g. TEST,Test,test are 3 different identifiers
+    - identifiers has no lenghth limit, but not recommended lengthy identifiers
+
+# 
